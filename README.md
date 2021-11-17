@@ -1,3 +1,18 @@
+# Agenda
+
+- What is React?
+- Who uses React in 2021?
+- What are some of the main features of React?
+- Who created React and when?
+- What is Babel?
+- What is Webpack?
+- npm vs yarn
+- How do we create a new React app?
+- How do we import and export components?
+- What is JSX?
+- How do we interpolate in JSX?
+- How do we render components and pass props along?
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
